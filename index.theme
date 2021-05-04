@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=JovarkOS
+Comment=The Default theme for JovarkOS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=JovarkOS
+GtkTheme=JovarkOS
+IconTheme=Yaru
+MetacityTheme=JovarkOS
